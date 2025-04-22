@@ -1,0 +1,13 @@
+
+*.py
+
+
+!app.py
+
+
+*.pyc
+
+*.pyo
+*.pyd
+*.db
+__pycache__/
